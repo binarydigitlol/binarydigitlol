@@ -1,1 +1,1 @@
-![banner](banner.png)
+![banner](unsplash-banner.jpg)
