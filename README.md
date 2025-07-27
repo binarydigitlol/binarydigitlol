@@ -1,4 +1,4 @@
-👋🏽 I'm Liz aka B | 👩🏽‍🦳 she/her | 📍 Detroit, Michigan <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" alt="animated noto star emoji" width="20px"/>
+👩🏽‍🦳 she/her | 📍 Detroit, Michigan <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" alt="animated noto star emoji" width="20px"/>
 
 Avatar by [Momo](https://www.heyheymomo.com/)
 
