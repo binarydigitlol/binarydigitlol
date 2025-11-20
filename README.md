@@ -11,5 +11,5 @@ Photo by <a href="https://unsplash.com/@lorenzoherrera?utm_content=creditCopyTex
 [![OMG.lol](https://binarycdn.b-cdn.net/badges/url-town-80x15.png)](https://url.town/)
 [![32bit.cafe](https://binarycdn.b-cdn.net/badges/32bitcafe-80x15-badge.png)](https://32bit.cafe/)
 [![People Pledge](https://binarycdn.b-cdn.net/badges/people_pledge_badge_oldschool_white_black_80x15.png)](https://people.pledge.party)
-[![BinaryDigit on Flickr](https://binarycdn.b-cdn.net/badges/flickr_badge.png)](https://flic.kr/binarydigit)
+[![BinaryDigit on Flickr](https://binarycdn.b-cdn.net/badges/flickr.png)](https://flic.kr/binarydigit)
 [![CC BY-NC-SA 4.0](https://binarycdn.b-cdn.net/badges/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
